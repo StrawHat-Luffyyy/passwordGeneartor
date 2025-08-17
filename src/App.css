@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f3f3f3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background: #fff;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  width: 350px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.generator-box {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 1.5rem;
+}
+
+.password-input {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+}
+
+.btn {
+  background: #007bff;
+  border: none;
+  padding: 8px 14px;
+  color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #0056b3;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: left;
+}
