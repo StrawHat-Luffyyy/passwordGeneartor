@@ -41,10 +41,10 @@ Clone the repo and run it locally:
 
 ```bash
 # Clone this repository
-git clone https://github.com/StrawHat-Luffyyy/react-password-generator.git
+git clone https://github.com/StrawHat-Luffyyy/passwordGenerator.git
 
 # Go into the project folder
-cd react-password-generator
+cd passwordGenerator
 
 # Install dependencies
 npm install
