@@ -35,3 +35,21 @@ Generate – A password is auto-generated. You can also click "Generate " for a 
 
 Copy – Click "Copy" to copy the password to your clipboard.
 
+## 🚀 Getting Started
+
+Clone the repo and run it locally:
+
+```bash
+# Clone this repository
+git clone https://github.com/StrawHat-Luffyyy/react-password-generator.git
+
+# Go into the project folder
+cd react-password-generator
+
+# Install dependencies
+npm install
+
+# Run the app
+npm run dev
+
+
